@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Jun 2021 17:44:58 +0800</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>http://example.org/categories/blog/</link>
+      <title>food</title>
+      <link>http://example.org/categories/food/</link>
       <pubDate>Fri, 04 Jun 2021 17:44:58 +0800</pubDate>
       
-      <guid>http://example.org/categories/blog/</guid>
+      <guid>http://example.org/categories/food/</guid>
       <description></description>
     </item>
     
